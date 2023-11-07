@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/kinesis_databricks_dabs/__init__.py
+src/kinesis_databricks_dabs/main.py
+src/kinesis_databricks_dabs.egg-info/PKG-INFO
+src/kinesis_databricks_dabs.egg-info/SOURCES.txt
+src/kinesis_databricks_dabs.egg-info/dependency_links.txt
+src/kinesis_databricks_dabs.egg-info/entry_points.txt
+src/kinesis_databricks_dabs.egg-info/requires.txt
+src/kinesis_databricks_dabs.egg-info/top_level.txt

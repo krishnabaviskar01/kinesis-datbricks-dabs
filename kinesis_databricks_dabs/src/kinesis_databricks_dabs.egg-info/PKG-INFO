@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: kinesis-databricks-dabs
+Version: 0.0.1
+Summary: wheel file based on kinesis_databricks_dabs/src
+Home-page: https://databricks.com
+Author: yashbaviskar@propensitylabs.com
